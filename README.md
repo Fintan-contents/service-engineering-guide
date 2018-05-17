@@ -11,7 +11,8 @@
 ## サービス開発のフロー
 
 > **Note**: 仮説検証サイクルと開発サイクルを図示する。
-> * イメージ: https://www.ntt-tx.co.jp/column/assets_c/2017/03/image0-15223.html
+> * 仮説検証サイクル ![](./development-cycle.png)
+> * 開発サイクルの図のイメージ: https://www.ntt-tx.co.jp/column/assets_c/2017/03/image0-15223.html
 
 ## 開発時の協業イメージ
 
