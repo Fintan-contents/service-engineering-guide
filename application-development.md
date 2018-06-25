@@ -1,5 +1,7 @@
 # クラウドネイティブなアプリケーションの開発
 
+## クラウドネイティブなアプリケーションアーキテクチャ
+
 クラウドネイティブなアプリケーションのアーキテクチャについては、以下を参照してください。
 
 * [The Twelve-Factor App](https://12factor.net/ja/)
@@ -7,9 +9,20 @@
 * [クラウドネイティブ成熟度モデル](https://www.slideshare.net/Pivotal/the-cloud-native-journey-58445711)（到達レベル：Cloud Resilient）
 * [クラウドネイティブなアプリケーション — Macchinetta Server Framework Cloud Extension Development Guideline](https://macchinetta.github.io/cloud-guideline/1.0.1.RELEASE/ja/Overview/CloudNativeApplication.html)
 
-TIS で実績の多い Java 開発でクラウドネイティブなアプリケーション開発を行う場合、広いエコシステムを持ち、クラウドサービスとの連携なども充実している、[Springを利用したアプリケーションスタック](https://ci.keel-dev.net/doc/crib-notes-build/branches/release-201806.9c841k/lastSuccessful/archive/doc/_build/html/architecture/index.html)を推奨します。
+## Spring を利用したアプリケーション開発
 
-Spring については、以下を参照してください。
+TIS で実績の多い Java 開発でクラウドネイティブなアプリケーション開発を行う場合、広いエコシステムを持ち、クラウドサービスとの連携なども充実している、[Spring を利用したアプリケーションスタック](https://ci.keel-dev.net/doc/crib-notes-build/branches/release-201806.9c841k/lastSuccessful/archive/doc/_build/html/architecture/index.html)を推奨します。
+
+Spring アプリケーションのアーキテクチャについては、以下を参照してください。
+
+* Webアプリ、RESTful Webサービス：  
+[Macchinetta Server Framework Development Guideline](https://macchinetta.github.io/server-guideline-thymeleaf/current/ja/)
+* バッチアプリ：  
+[Macchinetta Batch Framework Development Guideline](https://macchinetta.github.io/batch-guideline/current/ja/)
+
+ただし、Macchinetta では、Spring Boot を前提としておらず、設定の記載方法も異なるため、具体的な実装例や設定例をそのまま利用しないでください。
+
+Spring を利用したアプリケーション開発については、以下を参照してください。
 
 * [Getting Started · Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
 * [はじめての Spring Boot[改訂版]](https://www.kohgakusha.co.jp/books/detail/978-4-7775-1969-9)
