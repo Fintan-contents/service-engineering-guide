@@ -33,7 +33,7 @@ TDD（テクノロジー開発部）では、[仮説検証サイクルの高速�
 
 > **仮説検証サイクル**
 >
-> ![development-flow](./development-flow.png)
+> ![development-flow](./images/development-flow.png)
 
 ## エンジニアを育成する
 
