@@ -61,9 +61,9 @@ TDD（テクノロジー開発部）では、[仮説検証サイクルの高速�
 
 * [クラウドネイティブなアプリケーションの開発](application-development.md)
 
-また、構築するアプリケーションの特徴に合わせて、利用するアプリケーションフレームワークも決定する必要があります。[Springアプリ開発ノウハウ集](https://doc.keel-dev.net/crib-notes/spring/index.html)では、広いエコシステムを持ち、クラウドサービスとの連携も充実している、Javaアプリケーションフレームワーク[Spring](https://spring.io/)についてのノウハウをまとめています。
+また、構築するアプリケーションの特徴に合わせて、利用するアプリケーションフレームワークも決定する必要があります。Fintanの[Springアプリ開発ノウハウ集](https://fintan.adc-tis.com/?p=969)では、広いエコシステムを持ち、クラウドサービスとの連携も充実している[Spring](https://spring.io/)についてのノウハウをまとめています。
 
-* [Springアプリ開発ノウハウ集](https://doc.keel-dev.net/crib-notes/spring/index.html)
+* [Fintan - Springアプリ開発ノウハウ集](https://fintan.adc-tis.com/?p=969)
 
 ## 開発プロセスを設計する
 
@@ -71,21 +71,17 @@ TDD（テクノロジー開発部）では、[仮説検証サイクルの高速�
 
 そのため、漸次的にアプリケーションを作り上げていくスクラムのような開発プロセスが好ましいです。
 
-スクラムに関してはアプリケーション開発標準 - Fintanのスクラム関連のコンテンツを参照してください。
+スクラムに関しては、Fintanのスクラム関連のコンテンツを参照してください。
 
-* [Fintan](http://adc.intra.tis.co.jp/wiki/Fintan)
-  * スクラム概論
-  * スプリント開始条件チェックリスト
-  * スクラム開発プラクティス集
+* [Fintan - スクラム関連コンテンツ](https://fintan.adc-tis.com/?tag=%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E9%96%8B%E7%99%BA)
 
 ## 開発環境を準備する
 
 サービスを開発するチームにとって、チケット管理（かんばん）やGitリポジトリ、チャットは必要不可欠なツールです。
 
-アプリケーション開発標準 - FintanのNoPを使うことで、これらのツールが用意されたチーム開発環境を素早く作ることができます。
+FintanのNoPを使うことで、これらのツールが用意されたチーム開発環境を素早く作ることができます。
 
-* [Fintan](http://adc.intra.tis.co.jp/wiki/Fintan)
-  * [NoP](https://alfort.adc-tis.com/gitbucket/lapras/nablarch-on-paas)
+* [Fintan - NoP](https://fintan.adc-tis.com/?p=335)
 
 ## テスト環境と本番環境を用意する
 
@@ -103,11 +99,9 @@ TDDでは「エンジニアリングの高速化」を実現するため、サ�
 
 そして、何をどこまでテストするかを決めたら、開発プロセスの中でいつどうやってテストしていくのかを計画します。そうすることで、アプリケーションの品質をどのように作りこむのか、見通すことができるようになります。
 
-テストを計画するにあたっての詳細は、アプリケーション開発標準 - Fintanのテスト関連のコンテンツを参照してください。
+テストを計画するにあたっての詳細は、Fintanのテスト関連のコンテンツを参照してください。
 
-* [Fintan](http://adc.intra.tis.co.jp/wiki/Fintan)
-  * [全体テスト計画ガイド](https://alfort.adc-tis.com/gitbucket/Fintan/master-test-plan-standard/blob/master/README.md)
-  * [テスト種別＆観点カタログ](https://alfort.adc-tis.com/gitbucket/Fintan/testing-viewpoint)
+* [Fintan - テスト関連コンテンツ](https://fintan.adc-tis.com/?tag=%E3%83%86%E3%82%B9%E3%83%88)
 
 ## アプリケーションを実装・テストする
 
@@ -119,9 +113,9 @@ TDDでは「エンジニアリングの高速化」を実現するため、サ�
 
 また、協業プロジェクトなどでのテスト自動化の実践例を、今後拡充していきます。
 
-テストだけでなく、実装についてもサービス開発などを通じて得られるノウハウを整理し、「ノウハウ集」に集約することでプロジェクトやグループ全体が活用しやすい情報にしていきます。現在は、以下のノウハウ集を公開しています。
+テストだけでなく、実装についてもサービス開発などを通じて得られるノウハウを整理し、「ノウハウ集」に集約することでプロジェクトやグループ全体が活用しやすい情報にしていきます。現在は、以下のノウハウ集がFintanで公開されています。
 
-* [Springアプリ開発ノウハウ集](https://doc.keel-dev.net/crib-notes/spring/index.html)
+* [Fintan - Springアプリ開発ノウハウ集](https://fintan.adc-tis.com/?p=969)
 
 ## サービスをリリースする
 

@@ -6,8 +6,8 @@
 
 * [The Twelve-Factor App](https://12factor.net/ja/)
 * [Beyond the 12 Factor App](https://content.pivotal.io/ebooks/beyond-the-12-factor-app)
-* [クラウドネイティブ成熟度モデル](https://www.slideshare.net/Pivotal/the-cloud-native-journey-58445711)（到達レベル：Cloud Resilient）
-* [クラウドネイティブなアプリケーション — Macchinetta Server Framework Cloud Extension Development Guideline](https://macchinetta.github.io/cloud-guideline/1.0.1.RELEASE/ja/Overview/CloudNativeApplication.html)
+* [クラウドネイティブ成熟度モデル](https://www.slideshare.net/Pivotal/the-cloud-native-journey-58445711#16)（到達レベル：Cloud Resilient）
+* [クラウドネイティブなアプリケーション — Macchinetta Server Framework Cloud Extension Development Guideline](https://macchinetta.github.io/cloud-guideline/current/ja/Overview/CloudNativeApplication.html)
 
 ## Spring を利用したアプリケーション開発
 
@@ -28,4 +28,4 @@ Spring を利用したアプリケーション開発については、以下を�
 * [はじめての Spring Boot[改訂版]](https://www.kohgakusha.co.jp/books/detail/978-4-7775-1969-9)
 * [Spring徹底入門 Spring FrameworkによるJavaアプリケーション開発（株式会社NTTデータ）｜翔泳社の本](https://www.shoeisha.co.jp/book/detail/9784798142470)
 
-上記のスタックでアプリケーションを開発する際のナレッジとしては、[Springアプリ開発ノウハウ集](https://doc.keel-dev.net/crib-notes/spring/index.html) を参照してください。
+上記のスタックでアプリケーションを開発する際のナレッジとしては、[Fintan - Springアプリ開発ノウハウ集](https://fintan.adc-tis.com/?p=969) を参照してください。
