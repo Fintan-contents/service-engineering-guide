@@ -130,3 +130,7 @@ TDDでは「エンジニアリングの高速化」を実現するため、サ�
 そういったサービスの指標値を可視化しいつでも確認できるようにするために、[テスト環境と本番環境を用意する](#テスト環境と本番環境を用意する)で紹介したプラットフォームでは、指標値を簡単に確認できるようにする仕組みを提供します。
 
 また、自分たちのサービスのシステムメトリクスやログに関しても、サービスで簡単に確認できるように、プラットフォームからインターフェースを提供します。
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />このドキュメントは<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
