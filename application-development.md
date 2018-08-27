@@ -20,7 +20,7 @@ Springアプリケーションのアーキテクチャについては、以下�
 * バッチアプリ：  
 [Macchinetta Batch Framework Development Guideline](https://macchinetta.github.io/batch-guideline/current/ja/)
 
-ただし、Macchinettaでは、Spring Bootを前提としておらず、設定の記載方法も異なるため、具体的な実装例や設定例をそのまま利用しないでください。
+ただし、MacchinettaではSpring Bootを前提としておらず、設定の記載方法も異なるため、具体的な実装例や設定例をそのまま利用しないでください。
 
 Springを利用したアプリケーション開発については、以下を参照してください。
 
