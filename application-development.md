@@ -11,7 +11,7 @@
 
 ## Springを利用したアプリケーション開発
 
-TISで実績の多いJava開発でクラウドネイティブなアプリケーション開発を行う場合、広いエコシステムを持ち、クラウドサービスとの連携なども充実している、[Springを利用したアプリケーションスタック](https://doc.keel-dev.net/crib-notes/spring/architecture/index.html)を推奨します。
+Javaでクラウドネイティブなアプリケーション開発を行う場合、広いエコシステムを持ち、クラウドサービスとの連携なども充実している、[Springを利用したアプリケーションスタック](https://doc.keel-dev.net/crib-notes/spring/architecture/index.html)を推奨します。
 
 Springアプリケーションのアーキテクチャについては、以下を参照してください。
 
