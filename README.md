@@ -55,8 +55,6 @@
 
 * [Fintan - SPA＋REST APIのシステム構成例（AWS）](https://fintan.jp/?p=1256)
 * [Fintan - モニタリング、監視、ログ収集の実践例（AWS）](https://fintan.jp/?p=1266)
-* [Fintan - ヘキサゴナルアーキテクチャ導入事例](https://fintan.jp/?p=1375)
-* [Fintan - Reactを使ったフロントエンドのアーキテクチャ事例](https://fintan.jp/?p=1385)
 
 ## アプリケーションアーキテクチャを設計する
 
@@ -74,6 +72,8 @@
 
 * [Fintan - SPA＋REST APIにおけるセッションを使った認証の実践例](https://fintan.jp/?p=1387)
 * [Fintan - Android開発におけるモジュール化手法](https://fintan.jp/?p=1381)
+* [Fintan - ヘキサゴナルアーキテクチャ導入事例](https://fintan.jp/?p=1375)
+* [Fintan - Reactを使ったフロントエンドのアーキテクチャ事例](https://fintan.jp/?p=1385)
 
 ## 開発プロセスを設計する
 
