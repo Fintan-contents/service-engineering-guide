@@ -64,7 +64,13 @@
 
 * [クラウドネイティブなアプリケーションの開発](application-development.md)
 
-構築するアプリケーションの特徴に合わせて、利用するアプリケーションフレームワークも決定する必要があります。Fintanの[Springアプリ開発ノウハウ集](https://fintan.jp/?p=969)では、広いエコシステムを持ち、クラウドサービスとの連携も充実している[Spring](https://spring.io/)についてのノウハウをまとめています。
+構築するアプリケーションの特徴に合わせて、利用するアプリケーションフレームワークも決定する必要があります。
+
+Fintanの[SPA + REST API構成のサービス開発リファレンス](https://fintan.jp/?p=5952)では、SPA（シングルページアプリケーション）とREST APIで構成されるウェブアプリケーションを開発する際にリファレンスとして活用して頂ける方式設計のガイドと、アプリケーションのコード例を提供します。アプリケーションのコード例は[React](https://ja.reactjs.org/)と[Nablarch](https://nablarch.github.io/)を使用して書かれています。
+
+- [SPA + REST API構成のサービス開発リファレンス](https://fintan.jp/?p=5952)
+
+同じくFintanの[Springアプリ開発ノウハウ集](https://fintan.jp/?p=969)では、広いエコシステムを持ち、クラウドサービスとの連携も充実している[Spring](https://spring.io/)についてのノウハウをまとめています。
 
 * [Fintan - Springアプリ開発ノウハウ集](https://fintan.jp/?p=969)
 
